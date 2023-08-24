@@ -22,8 +22,8 @@
 
 ## 範例演示
 
-<img src="pic/new.png" alt="anime" width="350" height="500">
-<img src="pic/anime.png" alt="anime" width="600">
+<img src="pic/new.png" width="350" height="500">
+<img src="pic/anime.png" width="600">
 
 
 ## 執行要求
